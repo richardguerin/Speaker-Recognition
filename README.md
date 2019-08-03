@@ -1,5 +1,5 @@
-# Speaker Recognition
-A simple speaker recognition system.
+# Speaker Verification
+A simple speaker verification system.
 
 Praat is used to extract data from a collection of mp3 files containing speech, each of which is marked as being my voice or not my voice.
 
